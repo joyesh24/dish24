@@ -1,0 +1,42 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo=:"https://media.licdn.com/dms/image/D5622AQEP42TrSTZe9A/feedshare-shrink_800/0/1694197197757?e=2147483647&v=beta&t=po0fbWVIZAVBRE2i3xIULMu2FVxDtMVP8CVNXQdgU_Y" group-title="Bangla", Amar Digital TV
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh2kHznmNJbIwc_ntspUaBrkkZqHv6LiMo9UualMnYTQ&s" group-title="Bangla", Deshi TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png" group-title="Bangla", Ekushey TV
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+#EXTINF:-1 tvg-logo="https://d3jnkp3lrs2hd5.cloudfront.net/images/320x180/1708ecea-d867-423c-9743-2aabefcd8ecc.jpg" group-title="Bangla", Mon Tv Bangla
+https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/X2QTI6Bsp2pt9LlTqwgHOyCX1j11_OF9WpQriW_11qKcPaikKFHMtHwtUKMBN0ILJZw" group-title="Bangla", TBN24
+https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/QqJfK-0gx-9M9y3do7vgEA8dgxgxY7QBTNWt81Y8wHIXWl38ftVkmQZQNtRDuF2_F5cFsVX40A=s900-c-k-c0x00ffffff-no-rj" group-title="Indian News", 1st News India
+https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvwDgKW_kffCrj4LZCHrE1h-in7_ke_q6bHtbvq-ZDLw&s" group-title="Indian News", 24hrs TV
+https://server.livelegitpro.in/24hourstv/24hourstv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZSEyESeJ4suGfAUsVRYVrcF33Lg94YVWlZpaV9QOx5Q&s" group-title="Indian Music", 9XM
+https://livegeoroueu.akamaized.net/28072023/smil:9xmusic.smil/playlist.m3u8?dw=60&hdnts=st=1714299134~exp=1714313534~acl=!*/28072023/smil:9xmusic.smil/*!/payload/9xm_5_21691719_NA_IN_NA_9xm_1037/*~hmac=b2cc7a04058aa776f07e7476bc8be78d0470a7d0aacbfbbeccca65d56f53e35d&ud=1037_9xm_21691719_live_-1_-1&b=100-2500
+
+#EXTINF:-1 tvg-logo="https://bx-tv.com/wp-content/uploads/2022/11/7x-music-Punjabi.jpg" group-title="Indian Music", 7x Music
+https://stream.e2is.in/hls/7xMusic.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ15FEPcbtRZaRxxhOurrBPtAVtw5yywRNX15YS-L9yWA&s" group-title="Japan", CGN
+https://api.wecandeo.com/live/cast.m3u8?k=NyhQhishGs1X1zipHkpYZrK0YpQtrINDZaRpC4X9FrnyHtVwlzuzzeisAieie
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh4VpgO0_WeEJV3fLzFn-R-7xoZU0Y1R4LpMVJ5bf8iw&s" group-title="Japan", Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5WtGd8Yb3luNY6mXGRFgIk8F672vhf93nh6xUK3zIIQ&s" group-title="Korea", Airing
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSmpZPCEEIzpZkEdhay4a65mBYhquUJB5sRmKttura&s" group-title="Korea", EBS 1
+https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+
+
